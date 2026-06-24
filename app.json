@@ -21,7 +21,6 @@
       "versionCode": 5
     },
     "web": { "favicon": "./assets/favicon.png", "bundler": "metro" },
-    "plugins": ["react-native-webview"],
     "extra": {
       "eas": {
         "projectId": "ef445889-a2f4-4a8e-a9c3-a10aa6d545cf"
